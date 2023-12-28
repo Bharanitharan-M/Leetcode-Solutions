@@ -11,5 +11,3 @@ class Solution:
         for final_str in list:
             merge_string += final_str
         print(merge_string)
-S = Solution()
-S.mergeAlternately("abcd","1234")
